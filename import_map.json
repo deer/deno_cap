@@ -1,0 +1,14 @@
+{
+  "imports": {
+    "@/": "./",
+    "./": "./",
+    "cliffy/": "https://deno.land/x/cliffy@v0.25.7/",
+    "cliffy": "https://deno.land/x/cliffy@v0.25.7",
+    "puppeteer/": "https://deno.land/x/puppeteer@16.2.0/",
+    "puppeteer": "https://deno.land/x/puppeteer@16.2.0",
+    "imagescript/": "https://deno.land/x/imagescript@1.2.15/",
+    "imagescript": "https://deno.land/x/imagescript@1.2.15",
+    "std/": "https://deno.land/std@0.173.0/",
+    "std": "https://deno.land/std@0.173.0"
+  }
+}
